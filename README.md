@@ -1,5 +1,7 @@
 # chirp
 
+Project from Codewell, build in Vue.
+
 ## Project setup
 ```
 npm install
